@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 08:03:18</sys_created_on>
+        <sys_id>cd1564a02f9201101e83a85df699b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_78315_csm_query_case.x_78315_csm_query.query_case_user</sys_name>
+        <sys_package display_value="CSM Query Case Type" source="x_78315_csm_query">c0f22c6c2f5201101e83a85df699b6c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM Query Case Type">c0f22c6c2f5201101e83a85df699b6c7</sys_scope>
+        <sys_security_acl display_value="x_78315_csm_query_case">491564a02f9201101e83a85df699b675</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cd1564a02f9201101e83a85df699b679</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 08:03:18</sys_updated_on>
+        <sys_user_role display_value="x_78315_csm_query.query_case_user" name="x_78315_csm_query.query_case_user">e8156c602f9201101e83a85df699b658</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

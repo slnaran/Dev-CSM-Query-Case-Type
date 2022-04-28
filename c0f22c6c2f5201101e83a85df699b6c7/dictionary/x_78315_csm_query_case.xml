@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true" audit="true" extends="sn_customerservice_case" label="Query Case" max_length="40" name="x_78315_csm_query_case" sizeclass="3" type="collection"/>
+</database>

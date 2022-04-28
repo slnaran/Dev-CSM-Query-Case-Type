@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config_setting">
+    <sys_ux_ribbon_config_setting action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="CSM/FSM Configurable Workspace Ribbon Config">c403c94a538f101043d7ddeeff7b123b</configuration>
+        <order>100</order>
+        <ribbon display_value="Customer 360">261901512f6601101e83a85df699b6e6</ribbon>
+        <specificity>30</specificity>
+        <sys_class_name>sys_ux_ribbon_config_setting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-29 04:53:39</sys_created_on>
+        <sys_id>ee6901d12f6601101e83a85df699b664</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CSM Query Case Type" source="x_78315_csm_query">c0f22c6c2f5201101e83a85df699b6c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM Query Case Type">c0f22c6c2f5201101e83a85df699b6c7</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_setting_ee6901d12f6601101e83a85df699b664</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-29 04:53:39</sys_updated_on>
+        <table>x_78315_csm_query_case</table>
+        <width>5</width>
+    </sys_ux_ribbon_config_setting>
+</record_update>
