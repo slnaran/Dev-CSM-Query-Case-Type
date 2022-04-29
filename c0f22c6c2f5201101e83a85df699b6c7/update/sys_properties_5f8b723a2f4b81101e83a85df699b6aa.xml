@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>testing the system property to upload into github</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_78315_csm_query.testing-property</name>
+        <read_roles/>
+        <suffix>testing-property</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 01:34:37</sys_created_on>
+        <sys_id>5f8b723a2f4b81101e83a85df699b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_78315_csm_query.testing-property</sys_name>
+        <sys_package display_value="CSM Query Case Type" source="x_78315_csm_query">c0f22c6c2f5201101e83a85df699b6c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM Query Case Type">c0f22c6c2f5201101e83a85df699b6c7</sys_scope>
+        <sys_update_name>sys_properties_5f8b723a2f4b81101e83a85df699b6aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-28 01:34:37</sys_updated_on>
+        <type>string</type>
+        <value>yes</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=5f8b723a2f4b81101e83a85df699b6aa"/>
+</record_update>
